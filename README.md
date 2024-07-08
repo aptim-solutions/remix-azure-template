@@ -1,6 +1,7 @@
 # Azure Deployment Template
 
 The below is based on the [https://github.com/aaronpowell/azure-remix-stack](azure remix stack)
+We are constantly updating this template.
 
 ## Additional Files
 
